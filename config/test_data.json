@@ -1,0 +1,21 @@
+{
+  "users": {
+    "standard_user": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "locked_out_user": {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    },
+    "problem_user": {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    }
+  },
+  "checkout": {
+    "first_name": "Suvo",
+    "last_name": "QA",
+    "postal_code": "741101"
+  }
+}
